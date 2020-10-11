@@ -16,8 +16,6 @@ Formalizing the Pol.is graph
 
 Document Steward: Giorgos Georgiadis (GG)
 
-LaTeX equations plugin: [https://gsuite.google.com/marketplace/app/autolatex_equations/850293439076](https://www.google.com/url?q=https://gsuite.google.com/marketplace/app/autolatex_equations/850293439076&sa=D&ust=1602440807647000&usg=AOvVaw3a2VniQvbuqJoCEFamEXTM)
-
 # Introduction (GG)
 
 Pol.is[[1]](#ftnt1) is a deliberation platform where participants are called to vote (agree/disagree/pass) on a number of statements. At the same time, they are free to add their own statements for subsequent users to vote on<sup>[[2]](#ftnt2)</sup>.
