@@ -15,8 +15,10 @@ description Formalizing the Pol.is graph
 * *To start working in a new direction:*
     * Start a new section.
     * Put yourself as a steward.
+    * Add yourself to the stewards list below. 
 :::
 
+**Stewards: Giorgos Georgiadis (GG)**
 
 
 Pol.is is a deliberation platform where participants are called to vote (agree/disagree/pass) on a number of statements. At the same time, they are free to add their own statements for subsequent users to vote on<sup>[[1]](#ftnt-ref1)</sup>.
@@ -35,7 +37,7 @@ This document aims to study the resulting poll from a graph theoretical point of
 # Modeling (GG)
 
 * [Definitions](https://hackmd.io/@ThenWho/Definitions)
-* [Graph generation model](https://hackmd.io/@ThenWho/Definitions)
+* [Graph generation model](https://hackmd.io/@ThenWho/GraphGenerationModel)
 
 # TODO / interesting directions
 
