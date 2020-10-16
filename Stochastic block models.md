@@ -2,7 +2,7 @@
 title Pol.is Analysis / Stochastic block models
 description Stochastic block models
 ---
-## Stochastic block models
+# Stochastic block models
 
 [https://arxiv.org/abs/1501.06444](https://arxiv.org/abs/1501.06444)
 
