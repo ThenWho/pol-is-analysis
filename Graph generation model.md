@@ -2,7 +2,7 @@
 title Pol.is Analysis / Graph generation model
 description Graph generation model
 ---
-## Graph generation model
+# Graph generation model
 
 We assume discrete time and that no two users arrive simultaneously at the poll, i.e. one user arrives at time $t$ and the other at time ${t^{'}}$, such that $t < {t^{'}}$.
 
