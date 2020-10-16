@@ -1,3 +1,7 @@
+---
+title Pol.is Analysis / Definitions
+description Definitions
+---
 ## Definitions
 
 Let ${G_t} = ({U_t},{V_t},{E_t})$ be a bipartite graph<sup>[[2]](#ftnt2)</sup> representing a poll at time $t$. For every user $u$ that has participated in the poll by time $t$, there is a node $u \in U_t$. Respectively, for every statement $v$ that is part of the poll by time $t$, there is a node $v \in V_t$. If a user $u$ has voted on some statement $v$, then an edge $(u,v) \in {E_t}$ exists. We distinguish between three types of edges: those belonging to positive ("agree"), negative("disagree") and neutral ("pass") votes, represented with $E_t^ + ,E_t^ - ,E_t^0$ respectively ($E_t^ +  \cup E_t^ -  \cup E_t^0 = {E_t}$). When a user votes for a statement, an appropriate edge is being created, depending on the type of the vote (positive, negative or neutral).
