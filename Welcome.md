@@ -7,18 +7,19 @@ description Formalizing the Pol.is graph
 
 :::info
 * If you're reading this, you're welcome to contribute! 🎉
-* Note: each section has a steward (in parenthesis).
-* *For existing sections:*
+* *For existing pages:*
     * Make use of comments and ample +1s.
     * Edit text directly if you find inaccuracies.
-    * In case of doubt, reach out to the steward.
+    * In case of doubt, reach out to the page author.
 * *To start working in a new direction:*
-    * Start a new section.
-    * Put yourself as a steward.
-    * Add yourself to the stewards list below. 
+    * Start a new page.
+    * Link to it below (see existing links).
+    * Tend after the pages you authored:
+        * Follow up on page edits and comments.
+        * Engage in discussion with those who reach out.
 :::
 
-**Stewards: Giorgos Georgiadis (GG)**
+**Main author: [Giorgos Georgiadis](https://twitter.com/TheEngineer)**
 
 
 Pol.is is a deliberation platform where participants are called to vote (agree/disagree/pass) on a number of statements. At the same time, they are free to add their own statements for subsequent users to vote on<sup>[[1]](#ftnt-ref1)</sup>.
@@ -30,14 +31,18 @@ This document aims to study the resulting poll from a graph theoretical point of
 * better understanding of the computational complexity of common actions,
 * ...
 
-# Introduction (GG)
+# Introduction
 
 * [Welcome](https://hackmd.io/@ThenWho/PolisGraph)
 
-# Modeling (GG)
+# Modeling
 
 * [Definitions](https://hackmd.io/@ThenWho/Definitions)
 * [Graph generation model](https://hackmd.io/@ThenWho/GraphGenerationModel)
+
+# Related Literature
+
+* [Literature map](https://hackmd.io/@ThenWho/RelatedLiterature)
 
 # TODO / interesting directions
 
