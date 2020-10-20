@@ -16,3 +16,5 @@ We treat this graph as a multiplex network<sup>[[3]](#ftnt3)</sup> with three l
 [[2]](#ftnt-ref2) [https://en.wikipedia.org/wiki/Bipartite_graph](https://en.wikipedia.org/wiki/Bipartite_graph)
 
 [[3]](#ftnt-ref3)Cozzo, E., De Arruda, G. F., Rodrigues, F. A., & Moreno, Y. (2018). Multiplex networks: basic formalism and structural properties . Berlin: Springer.
+
+[> home](https://hackmd.io/@ThenWho/PolisGraph)
