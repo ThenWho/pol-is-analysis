@@ -24,6 +24,9 @@ digraph cg {
     jia2017 [penwidth = 3];
     kivela2014 [shape = rectangle, penwidth = 3];
     dasilvasoares2012 [penwidth = 3, fontcolor = green, href = "/@ThenWho/dasilvasoares2012"];
+    cai2018 [fontcolor = green, href = "/@ThenWho/cai2018"];
+    bordes2013 [fontcolor = green, href = "/@ThenWho/bordes2013"];
+    spiegel2012;
     
     subgraph cluster_bnp {
 		color = blue;
@@ -49,6 +52,15 @@ digraph cg {
         kivela2014 -> davis2011;
         kivela2014 -> horvat2012;
         haghani2017 -> dasilvasoares2012;
+    }
+    
+    subgraph cluster_ml {
+		color = red;
+		label = "Deep learning";
+        
+        haghani2017 -> bordes2013;
+        cai2018 -> bordes2013;
+        haghani2017 -> spiegel2012;
     }
 }
 ```
@@ -80,5 +92,17 @@ digraph cg {
   * Y. Jia, Y. Wang, X. Jin, Z. Zhao and X. Cheng, "Link Inference in Dynamic Heterogeneous Information Network: A Knapsack-Based Approach," in IEEE Transactions on Computational Social Systems, vol. 4, no. 3, pp. 80-92, Sept. 2017.
 [[jia2017]](https://doi.org/10.1109/TCSS.2017.2715069)
   * Kivelä, Mikko, Alex Arenas, Marc Barthelemy, James P. Gleeson, Yamir Moreno, and Mason A. Porter. "Multilayer networks." Journal of complex networks 2, no. 3 (2014): 203-271. [[kivela2014]](https://doi.org/10.1093/comnet/cnu016)
+
+
+### Latent feature based models
+
+* Bordes, Antoine, Xavier Glorot, Jason Weston, and Yoshua Bengio. "A semantic matching energy function for learning with multi-relational data." Machine Learning 94, no. 2 (2014): 233-259. [[bordes2013](/@ThenWho/bordes2013)] https://doi.org/10.1007/s10994-013-5363-6
+* H. Cai, V. W. Zheng and K. C. Chang, "A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 9, pp. 1616-1637, 1 Sept. 2018 [[cai2018](/@ThenWho/cai2018)]  https://doi.org/10.1109/TKDE.2018.2807452
+* L. Zhu, D. Guo, J. Yin, G. V. Steeg and A. Galstyan, "Scalable Temporal Latent Space Inference for Link Prediction in Dynamic Social Networks," in IEEE Transactions on Knowledge and Data Engineering, vol. 28, no. 10, pp. 2765-2777, 1 Oct. 2016 [[zhu2016]](/pCo0Jb-WS7-0k5gW87d-xw)  http://doi.org/10.1109/TKDE.2016.2591009
+* Keyvanpour, Mohammad Reza, and Somayyeh Seifi Moradi. "A Perturbation Method Based on Singular Value Decomposition and Feature Selection for Privacy Preserving Data Mining," International Journal of Data Warehousing and Mining (IJDWM) 10 (2014): 1, accessed (October 25, 2020) [[keyvanpour2014]](/ey5IFYJAQmWQkKT0KZqvyQ)   https://doi.org/10.4018/ijdwm.2014010104
+* [[spiegel2012]](/LzPsVc2CTUma2qBKRyPjnA)
+
+
+
 
 [> home](https://hackmd.io/@ThenWho/PolisGraph)
