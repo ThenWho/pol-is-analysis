@@ -27,6 +27,7 @@ digraph cg {
     cai2018 [fontcolor = green, href = "/@ThenWho/cai2018"];
     bordes2013 [fontcolor = green, href = "/@ThenWho/bordes2013"];
     spiegel2012;
+    miller2009 [penwidth = 3, fontcolor = green, href = "/@ThenWho/miller2009"];
     
     subgraph cluster_bnp {
 		color = blue;
@@ -52,6 +53,7 @@ digraph cg {
         kivela2014 -> davis2011;
         kivela2014 -> horvat2012;
         haghani2017 -> dasilvasoares2012;
+        haghani2017 -> miller2009;
     }
     
     subgraph cluster_ml {
@@ -102,7 +104,7 @@ digraph cg {
 | [[zhu2016]](/pCo0Jb-WS7-0k5gW87d-xw) | L. Zhu, D. Guo, J. Yin, G. V. Steeg and A. Galstyan, "Scalable Temporal Latent Space Inference for Link Prediction in Dynamic Social Networks," in IEEE Transactions on Knowledge and Data Engineering, vol. 28, no. 10, pp. 2765-2777, 1 Oct. 2016  http://doi.org/10.1109/TKDE.2016.2591009  |
 | [[keyvanpour2014]](/ey5IFYJAQmWQkKT0KZqvyQ) | Keyvanpour, Mohammad Reza, and Somayyeh Seifi Moradi. "A Perturbation Method Based on Singular Value Decomposition and Feature Selection for Privacy Preserving Data Mining," International Journal of Data Warehousing and Mining (IJDWM) 10 (2014): 1, accessed (October 25, 2020)  https://doi.org/10.4018/ijdwm.2014010104  |
 | [[spiegel2012]](/LzPsVc2CTUma2qBKRyPjnA)    |   |
-|     |   |
+| [[miller2009]](/Lu3wrz8oRlC9qWz5LXPM2A)    | Miller, Kurt, Michael I. Jordan, and Thomas L. Griffiths. "Nonparametric latent feature models for link prediction." In Advances in neural information processing systems, pp. 1276-1284. 2009. |
 
 
 [> home](https://hackmd.io/@ThenWho/PolisGraph)
