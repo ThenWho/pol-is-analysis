@@ -99,12 +99,13 @@ digraph cg {
 
 | ID  | Citation |
 | --- | -------- |
-| [[bordes2013](/@ThenWho/bordes2013)] | Bordes, Antoine, Xavier Glorot, Jason Weston, and Yoshua Bengio. "A semantic matching energy function for learning with multi-relational data." Machine Learning 94, no. 2 (2014): 233-259.  https://doi.org/10.1007/s10994-013-5363-6  |
-| [[cai2018](/@ThenWho/cai2018)] | H. Cai, V. W. Zheng and K. C. Chang, "A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 9, pp. 1616-1637, 1 Sept. 2018 https://doi.org/10.1109/TKDE.2018.2807452 |
-| [[zhu2016]](/pCo0Jb-WS7-0k5gW87d-xw) | L. Zhu, D. Guo, J. Yin, G. V. Steeg and A. Galstyan, "Scalable Temporal Latent Space Inference for Link Prediction in Dynamic Social Networks," in IEEE Transactions on Knowledge and Data Engineering, vol. 28, no. 10, pp. 2765-2777, 1 Oct. 2016  http://doi.org/10.1109/TKDE.2016.2591009  |
-| [[keyvanpour2014]](/ey5IFYJAQmWQkKT0KZqvyQ) | Keyvanpour, Mohammad Reza, and Somayyeh Seifi Moradi. "A Perturbation Method Based on Singular Value Decomposition and Feature Selection for Privacy Preserving Data Mining," International Journal of Data Warehousing and Mining (IJDWM) 10 (2014): 1, accessed (October 25, 2020)  https://doi.org/10.4018/ijdwm.2014010104  |
-| [[spiegel2012]](/LzPsVc2CTUma2qBKRyPjnA)    |   |
-| [[miller2009]](/Lu3wrz8oRlC9qWz5LXPM2A)    | Miller, Kurt, Michael I. Jordan, and Thomas L. Griffiths. "Nonparametric latent feature models for link prediction." In Advances in neural information processing systems, pp. 1276-1284. 2009. |
+| [[bordes2013]](/@ThenWho/bordes2013) | Bordes, Antoine, Xavier Glorot, Jason Weston, and Yoshua Bengio. "A semantic matching energy function for learning with multi-relational data." Machine Learning 94, no. 2 (2014): 233-259.  https://doi.org/10.1007/s10994-013-5363-6  |
+| [[cai2018]](/@ThenWho/cai2018) | H. Cai, V. W. Zheng and K. C. Chang, "A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications," in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 9, pp. 1616-1637, 1 Sept. 2018 https://doi.org/10.1109/TKDE.2018.2807452 |
+| [[zhu2016]](/@ThenWho/zhu2016) | L. Zhu, D. Guo, J. Yin, G. V. Steeg and A. Galstyan, "Scalable Temporal Latent Space Inference for Link Prediction in Dynamic Social Networks," in IEEE Transactions on Knowledge and Data Engineering, vol. 28, no. 10, pp. 2765-2777, 1 Oct. 2016  http://doi.org/10.1109/TKDE.2016.2591009  |
+| [[keyvanpour2014]](/@ThenWho/keyvanpour2014) | Keyvanpour, Mohammad Reza, and Somayyeh Seifi Moradi. "A Perturbation Method Based on Singular Value Decomposition and Feature Selection for Privacy Preserving Data Mining," International Journal of Data Warehousing and Mining (IJDWM) 10 (2014): 1, accessed (October 25, 2020)  https://doi.org/10.4018/ijdwm.2014010104  |
+| [[spiegel2012]](/@ThenWho/spiegel2012)    |   |
+| [[miller2009]](/@ThenWho/miller2009)    | Miller, Kurt, Michael I. Jordan, and Thomas L. Griffiths. "Nonparametric latent feature models for link prediction." In Advances in neural information processing systems, pp. 1276-1284. 2009. |
+|[[sarkar2012]](/@ThenWho/sarkar2012)||
 
 
 [> home](https://hackmd.io/@ThenWho/PolisGraph)
