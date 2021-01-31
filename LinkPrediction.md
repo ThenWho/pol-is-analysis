@@ -1,5 +1,8 @@
 # Link prediction
 
+[![hackmd-github-sync-badge](https://hackmd.io/8yvjIvm9TEyDSunVg1nSYQ/badge)](https://hackmd.io/8yvjIvm9TEyDSunVg1nSYQ)
+
+
 ## Generic method
 
 Using participant-votes data, it is possible to predict future votes as follows:
@@ -33,3 +36,5 @@ This is possible by implementing the SCED algorithm of Zhou *et al*, together wi
 *Bibliography*:
 * Zhou, Shuo, Sarah M. Erfani, and James Bailey. “Sced: A general framework for sparse tensor decomposition with constraints and elementwise dynamic learning.” In 2017 IEEE International Conference on Data Mining (ICDM), pp. 675-684. IEEE, 2017.
 * Zhou, Shuo. “On dynamic tensor decompositions.” PhD diss., 2019.
+
+[\> home](https://hackmd.io/@ThenWho/PolisGraph)
