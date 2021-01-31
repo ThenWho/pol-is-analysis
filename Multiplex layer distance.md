@@ -4,6 +4,9 @@ description Multiplex layer distance
 ---
 # Multiplex layer distance
 
+[![hackmd-github-sync-badge](https://hackmd.io/0Itb7Kt2T2KwCcjxszTBDw/badge)](https://hackmd.io/0Itb7Kt2T2KwCcjxszTBDw)
+
+
 [https://iopscience.iop.org/article/10.1088/1367-2630/ab14b3](https://iopscience.iop.org/article/10.1088/1367-2630/ab14b3)
 
 Here the authors suggest that
