@@ -4,6 +4,9 @@ description Graph generation model
 ---
 # Graph generation model
 
+[![hackmd-github-sync-badge](https://hackmd.io/sreMi9q3SZW7uT39AUZQPQ/badge)](https://hackmd.io/sreMi9q3SZW7uT39AUZQPQ)
+
+
 We assume discrete time and that no two users arrive simultaneously at the poll, i.e. one user arrives at time $t$ and the other at time ${t^{'}}$, such that $t < {t^{'}}$.
 
 At time $t = 0$, we have $\left| {{U_0}} \right| = 0,\left| {{V_0}} \right| = n_0^v,\left| {{E_0}} \right| = 0$. This reflects the fact that the poll starts with no users, a set of initial statements and no votes.
