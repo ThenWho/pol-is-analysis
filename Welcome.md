@@ -5,6 +5,9 @@ description Formalizing the Pol.is graph
 
 # Pol.is Graph Theoretic Modeling
 
+[![hackmd-github-sync-badge](https://hackmd.io/96BFPSiRQtK78NxFkPYcTQ/badge)](https://hackmd.io/96BFPSiRQtK78NxFkPYcTQ)
+
+
 :::info
 * If you're reading this, you're welcome to contribute! 🎉
 * *For existing pages:*
@@ -43,6 +46,12 @@ This document aims to study the resulting poll from a graph theoretical point of
 # Related Literature
 
 * [Literature map](https://hackmd.io/@ThenWho/RelatedLiterature)
+
+# Experiments
+
+Code for the experiments can be found on https://github.com/ThenWho/pol-is-link-prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thenwho/pol-is-link-prediction/blob/master/)
+
+* [Link prediction](https://hackmd.io/@ThenWho/LinkPrediction)
 
 # TODO / interesting directions
 
